@@ -1,0 +1,4 @@
+{
+    "name": "viewpoint_generation_agent",
+    "description": "Generates two distinct viewpoints on a topic for a podcast conversation."
+}

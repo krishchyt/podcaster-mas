@@ -1,0 +1,4 @@
+{
+    "name": "host_agent",
+    "description": "Orchestrates the podcast creation process by coordinating with specialized agents."
+}
