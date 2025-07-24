@@ -23,13 +23,13 @@ graph TD
         subgraph "Multi-Agent System (HTTP/JSON APIs)"
             direction TB
             
-            HA[Host Agent <br> (FastAPI)]
+            HA[Host Agent <br> FastAPI]
             
             subgraph "Specialized Agents"
                 direction LR
-                TRA[Topic Research Agent <br> (FastAPI)]
-                VGA[Viewpoint Generation Agent <br> (FastAPI)]
-                SWA[Scriptwriting Agent <br> (FastAPI)]
+                TRA[Topic Research Agent <br> FastAPI]
+                VGA[Viewpoint Generation Agent <br> FastAPI]
+                SWA[Scriptwriting Agent <br> FastAPI]
             end
         end
         
