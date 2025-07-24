@@ -48,6 +48,7 @@ graph TD
 
 ## File Structure
 
+```
 podcast_creator_mas/
 ├── agents/
 │   ├── host_agent/
@@ -89,6 +90,7 @@ podcast_creator_mas/
 ├── podcast_ui.py
 ├── README.md
 └── requirements.txt
+```
 
 ## How it Works
 
